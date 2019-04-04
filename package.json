@@ -17,6 +17,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Consunet/GraphLabDemos"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
